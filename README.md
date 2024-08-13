@@ -24,7 +24,7 @@ Git
 1. Configuração do Back-End
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/desafio-fullstack.git
+git clone [https://github.com/seu-usuario/desafio-fullstack.git](https://github.com/gabrieldzuman/fs-web)
 cd desafio-fullstack/backend
 Instale as dependências:
  
